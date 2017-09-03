@@ -25,4 +25,6 @@ Download the whole repository to your computer and run the main function in the 
 <p align="center">
   <img src="https://raw.github.com/cfuchs981/fiddle/master/src/images/background1.png"/>
   <img src="https://raw.github.com/cfuchs981/fiddle/master/src/images/idle_L.png"/>
+  <img src="https://raw.github.com/cfuchs981/fiddle/master/src/images/run_L1.png"/>
+
 </p>
