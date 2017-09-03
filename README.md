@@ -23,6 +23,6 @@ Download the whole repository to your computer and run the main function in the 
 
 # Screenshots 
 <p align="center">
-  <img src="https://raw.github.com/cfuchs981/Budgetier/master/src/images/background1.png"/>
-  <img src="https://raw.github.com/cfuchs981/Budgetier/master/src/images/idle_L.png"/>
+  <img src="https://raw.github.com/cfuchs981/fiddle/master/src/images/background1.png"/>
+  <img src="https://raw.github.com/cfuchs981/fiddle/master/src/images/idle_L.png"/>
 </p>
